@@ -1,0 +1,6 @@
+export const test = (num1: number): number => {
+	const i: number = 0;
+	while(i > 2) {
+		return num1 + 2;
+	};
+};
